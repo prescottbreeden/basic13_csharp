@@ -1,0 +1,10 @@
+/Users/Goethe/Dropbox/code/csharp/basic13/bin/Debug/netcoreapp2.0/basic13.deps.json
+/Users/Goethe/Dropbox/code/csharp/basic13/bin/Debug/netcoreapp2.0/basic13.runtimeconfig.json
+/Users/Goethe/Dropbox/code/csharp/basic13/bin/Debug/netcoreapp2.0/basic13.runtimeconfig.dev.json
+/Users/Goethe/Dropbox/code/csharp/basic13/bin/Debug/netcoreapp2.0/basic13.dll
+/Users/Goethe/Dropbox/code/csharp/basic13/bin/Debug/netcoreapp2.0/basic13.pdb
+/Users/Goethe/Dropbox/code/csharp/basic13/obj/Debug/netcoreapp2.0/basic13.csproj.CoreCompileInputs.cache
+/Users/Goethe/Dropbox/code/csharp/basic13/obj/Debug/netcoreapp2.0/basic13.AssemblyInfoInputs.cache
+/Users/Goethe/Dropbox/code/csharp/basic13/obj/Debug/netcoreapp2.0/basic13.AssemblyInfo.cs
+/Users/Goethe/Dropbox/code/csharp/basic13/obj/Debug/netcoreapp2.0/basic13.dll
+/Users/Goethe/Dropbox/code/csharp/basic13/obj/Debug/netcoreapp2.0/basic13.pdb
